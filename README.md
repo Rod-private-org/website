@@ -2,10 +2,9 @@
  This is a really awesome website
  
  Updates made on amster on GitHub before rebase
+<<<<<<< HEAD
 
-
-## Repository Purpose
-
-This will be a change that conflicts
-with whatever is on the remote side.
-This was edited locally.
+ ## Repository Purpose
+ 
+ This file is just a readme file
+>>>>>>> e5d310b40e3c9f5b5932f8174045d5362a8b37f2

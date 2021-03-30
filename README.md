@@ -1,6 +1,4 @@
 # My-Website
  This is a really awesome website
  
- Now editing on update-readme branch
-
- Updated locally
+ Updates made on amster on GitHub before rebase

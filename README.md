@@ -1,10 +1,13 @@
 # My-Website
- This is a really awesome website
+This is a really awesome website
  
- Updates made on amster on GitHub before rebase
-<<<<<<< HEAD
+Updates made on master on GitHub before rebase
 
- ## Repository Purpose
+ Repository Purpose
  
- This file is just a readme file
->>>>>>> e5d310b40e3c9f5b5932f8174045d5362a8b37f2
+This file is just a readme file
+
+## Purpose
+
+The purpose of this file is to provide examples
+on how to use Git and GitHub together.
